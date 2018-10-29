@@ -1,10 +1,8 @@
 /node_modules/
+
 npm-debug.log
 
 /docs/
-
-es
-lib
 
 ios/RNAWSCognito.xcodeproj/xcuserdata/
 ios/RNAWSCognito.project.xcworkspace/xcuserdata/
